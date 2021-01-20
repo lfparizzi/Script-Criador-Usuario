@@ -1,5 +1,5 @@
-$Username = "eloila"
-$Password = "eloila"
+$Username = "censored"
+$Password = "censored"
 
 $group = "Administradores"
 
