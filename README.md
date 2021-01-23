@@ -8,7 +8,7 @@ Script created to automatize the creation of administrator users in Windows.
 
 ### 🚀 How to Run?
 - Download both scripts (the `.bat` and `.ps1`). Make shure both are in the same folder.
-- in `FuncaoCriarV2.ps1` edit the first 2 lines to your desired Username and Password.
+- In `FuncaoCriarV2.ps1` edit the first 2 lines to your desired Username and Password.
 - Execute `CriadorContaV2.bat`
 - User will be created with privileges.
 
